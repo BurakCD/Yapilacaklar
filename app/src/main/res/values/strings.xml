@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Things To Do</string>
+    <string name="nullSpeakablePresent">" "</string>
+    <string name="NoteText">Task To Do</string>
+    <string name="saveButton">Save</string>
+    <string name="updateButton">Update</string>
+    <string name="okayText">Yes</string>
+    <string name="noText">No</string>
+    <string name="wantToDelete">Do you want to delete?</string>
+    <string name="entryToolbar">Task Entry</string>
+    <string name="detailsToolbar">Task Detail</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Yapılacaklar</string>
+    <string name="nullSpeakablePresent">" "</string>
+    <string name="NoteText">Yapılacak İş</string>
+    <string name="saveButton">Kaydet</string>
+    <string name="updateButton">Güncelle</string>
+    <string name="okayText">Evet</string>
+    <string name="noText">Hayır</string>
+    <string name="wantToDelete">Silmek istediğinize emin misiniz?</string>
+    <string name="entryToolbar">Yapılacak İş Kayıt</string>
+    <string name="detailsToolbar">Yapılacak İş Detay</string>
+</resources>
