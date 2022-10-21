@@ -16,7 +16,7 @@ fun Navigation.gate(view : View, nav_id:NavDirections){
 
 fun String.subText(firstIndex : Int, lastIndex : Int) : String{
     if (length < lastIndex){
-        return "${substring(0, length)}"
+        return "${toString()}"
     }else{
         return "${substring(0, lastIndex)}..."
     }
